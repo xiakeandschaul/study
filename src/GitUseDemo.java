@@ -10,5 +10,8 @@ public class GitUseDemo {
         System.out.println("hello,gitlab:first-commit");
 //        第二次提交
         System.out.println("第二次提交");
+
+//        ssh提交
+        System.out.println("第三次提交");
     }
 }
